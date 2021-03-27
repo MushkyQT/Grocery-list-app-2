@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    background: url(../img/oranges.jpg) no-repeat center center fixed;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+    color: white;
+}
+
+.whiteBox {
+    background-color: #f8f9fa;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: black;
+    z-index: 1;
+}
